@@ -1,3 +1,3 @@
-# Template Js
+# Template Ruby
 
-Javascript template for gauge using Taiko.
+Ruby template for Gauge.
